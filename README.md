@@ -4,6 +4,7 @@ features MVC pattern and follows OOP principles
 • use of object/s
 • use of sessions
 
+
 REQUIREMENT
 =================================
 PHP Version: 5.3.14 or higher
